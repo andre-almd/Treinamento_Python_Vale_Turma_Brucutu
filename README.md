@@ -15,7 +15,7 @@ Módulo2:
 
 Módulo3:
 
-## Biliotecas Necessárias
+## Bibliotecas Necessárias
 
 As bibliotecas necessárias para rodar os códigos estão listadas abaixo. (Sugiro instalar a plataforma anaconda que já possui todas as bibliotecas.)
 
