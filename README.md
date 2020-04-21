@@ -1,7 +1,7 @@
 # Treinamento de Python para a Vale - Turma Brucutu
 Curso Básico de Python Sobre Análise de Dados e Machine Learning
 
-## Instrutores: 
+## Instrutor: 
 ### André Almeida Santos
 Engenheiro Eletricista pelo Instituto Federal da Bahia. É mestrando em Instrumentação, Controle e Automação de Processos de Mineração pelo Instituto Tecnológico Vale e Universidade Federal de Ouro Preto.
 
