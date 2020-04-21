@@ -19,18 +19,9 @@ Módulo3:
 
 As bibliotecas necessárias para rodar os códigos estão listadas abaixo. (Sugiro instalar a plataforma anaconda que já possui todas as bibliotecas.)
 
-Pandas
+Pandas, matplotlib, numpy, sklearn, seaborn
 
-matplotlib
-
-numpy
-
-sklearn
-
-seaborn
-
-opencv
-
+O opencv pode ser instalado conforme indicado no site: https://pypi.org/project/opencv-python/
 
 O torch e torvision também devem ser instalados e podem ser baixados de acordo o seu sistema. O comando de instalação pode ser gerado diretamente no site: https://pytorch.org/
 
