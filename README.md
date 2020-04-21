@@ -13,7 +13,7 @@ Módulo1: Noções Gerais e Modelos de Predição
 
 Módulo2:
 
-Módulo:
+Módulo3:
 
 ## Biliotecas Necessárias
 
