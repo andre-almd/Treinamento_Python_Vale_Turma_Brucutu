@@ -8,8 +8,10 @@ Engenheiro Eletricista pelo Instituto Federal da Bahia. É mestrando em Instrume
 ### Email:
 andre.almdsantos@gmail.com
 
-### Módulos: Todos os arquivos de códigos e exemplos estarão disponíveis nas pastas de cada módulo.
-Módulo1: Noções Gerais e Modelos de Predição
+### Módulos: 
+Todos os arquivos de códigos e exemplos estarão disponíveis nas pastas de cada módulo.
+
+####Módulo1: Noções Gerais e Modelos de Predição
 
 Módulo2:
 
