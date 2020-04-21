@@ -5,8 +5,10 @@ Curso Básico de Python Sobre Análise de Dados e Machine Learning
 ### André Almeida Santos
 Engenheiro Eletricista pelo Instituto Federal da Bahia. É mestrando em Instrumentação, Controle e Automação de Processos de Mineração pelo Instituto Tecnológico Vale e Universidade Federal de Ouro Preto.
 
-### Email:
+### Email e Linkedin:
 andre.almdsantos@gmail.com
+
+https://www.linkedin.com/in/andre-almdsantos/
 
 ## Módulos: 
 Todos os arquivos de códigos e exemplos estarão disponíveis nas pastas de cada módulo.
