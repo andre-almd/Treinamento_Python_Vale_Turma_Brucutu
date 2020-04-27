@@ -10,8 +10,8 @@ import cv2
 import numpy as np
 
 # Espaço de cores 
-# (Correção do que ocorreu na aula... lá fiz uma transformação para RGB que passou despercebido. 
-#           Agora está tudo ok!)
+# (Correção... Na aula fiz uma transformação para RGB que passou despercebido. 
+#           Agora está tudo ok para ver a mudança na matiz!)
 # *****************************************************************************
 # BGR
 img = cv2.imread('arquivos/00-cachorro.jpg')
