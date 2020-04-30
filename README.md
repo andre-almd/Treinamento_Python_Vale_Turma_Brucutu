@@ -15,7 +15,7 @@ Todos os arquivos de códigos e exemplos estarão disponíveis nas pastas de cad
 
 Módulo1: Noções Gerais e Modelos de Predição
 
-Módulo2:
+Módulo2: Numpy e OpenCV
 
 Módulo3:
 
