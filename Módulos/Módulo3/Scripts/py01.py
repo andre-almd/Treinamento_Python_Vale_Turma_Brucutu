@@ -13,6 +13,7 @@ import torchvision.transforms as transforms
 import torch.nn as nn
 import torch.nn.functional as F
 import torch.optim as optim
+
 import network as net
 
 # Transformações necessárias ao ler os dados
@@ -41,7 +42,26 @@ for param in model.parameters():
   
   
 # ************
+model.eval()
 
+examples = enumerate(testloader)
+
+batch_idx, (example_data, example_targets) = next(examples)
+
+out1 = model.outConv1(example_data)
+out2 = model.outPool1(example_data)
+out3 = model.outConv2(example_data)
+out4 = model.outPool2(example_data)
 
 # Imagem e filtro
+plt.figure('Conv1')
+plt.imshow(out1[4][6].detach().numpy(), cmap='gray')
 
+plt.figure('Pool1')
+plt.imshow(out2[4][6].detach().numpy(), cmap='gray')
+
+plt.figure('Conv2')
+plt.imshow(out3[4][15].detach().numpy(), cmap='gray')
+
+plt.figure('Pool2')
+plt.imshow(out4[4][15].detach().numpy(), cmap='gray')

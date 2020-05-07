@@ -44,3 +44,38 @@ class Net(nn.Module):
         x = self.fc2(x)
         
         return x
+    
+    def outConv1(self, x):
+        
+        x = self.conv1(x)
+        
+        return x
+    
+    def outPool1(self, x):
+        
+        x = self.conv1(x)
+        x = F.relu(x)
+        x = self.pool(x)
+        
+        return x
+    
+    def outConv2(self, x):
+        
+        x = self.conv1(x)
+        x = F.relu(x)
+        x = self.pool(x)
+        x = self.conv2(x)
+        
+        return x
+    
+    def outPool2(self, x):
+        
+        x = self.conv1(x)
+        x = F.relu(x)
+        x = self.pool(x)
+        x = self.conv2(x)
+        x = F.relu(x)
+        x = self.pool(x)
+        
+        return x
+        
