@@ -17,7 +17,7 @@ Módulo1: Noções Gerais e Modelos de Predição
 
 Módulo2: Numpy e OpenCV
 
-Módulo3:
+Módulo3: Deep Learning com Convolutional Neural Network
 
 ## Bibliotecas Necessárias
 
