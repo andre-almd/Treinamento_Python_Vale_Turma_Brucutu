@@ -1,7 +1,7 @@
 ## Fontes dos dados
 
 ### Dataset - well log:
-- https://www.kaggle.com/cboychinedu/hole-deviation
+- Hole Deviation EDA -- https://www.kaggle.com/cboychinedu/hole-deviation
 
 ### Dataset - weight students
-- https://www.oreilly.com/library/view/mastering-python-for/9781784390150/
+- livro Mastering Python for Data Science -- https://www.oreilly.com/library/view/mastering-python-for/9781784390150/
