@@ -33,6 +33,6 @@ dic = {'col1': serie3,
 df3 = pd.DataFrame(dic)
 print(df2)
 
-# Listar index e colunas
+# Listar index e colunas do dataframe
 list(df3.columns)
 list(df3.index)
