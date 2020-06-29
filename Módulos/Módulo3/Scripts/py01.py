@@ -54,14 +54,18 @@ out3 = model.outConv2(example_data)
 out4 = model.outPool2(example_data)
 
 # Imagem e filtro
+plt.figure('Imagem')
+plt.imshow(example_data[0][0], cmap='gray')
+
+# Imagem e filtro
 plt.figure('Conv1')
-plt.imshow(out1[4][6].detach().numpy(), cmap='gray')
+plt.imshow(out1[0][3].detach().numpy(), cmap='gray')
 
 plt.figure('Pool1')
-plt.imshow(out2[4][6].detach().numpy(), cmap='gray')
+plt.imshow(out2[0][3].detach().numpy(), cmap='gray')
 
 plt.figure('Conv2')
-plt.imshow(out3[4][15].detach().numpy(), cmap='gray')
+plt.imshow(out3[0][1].detach().numpy(), cmap='gray')
 
 plt.figure('Pool2')
-plt.imshow(out4[4][15].detach().numpy(), cmap='gray')
+plt.imshow(out4[0][1].detach().numpy(), cmap='gray')
