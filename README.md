@@ -1,5 +1,5 @@
 # Treinamento de Python para a Vale - Turma Brucutu
-Curso Básico de Python Sobre Análise de Dados e Machine Learning
+Curso Básico de Python Sobre Análise de Dados e Machine Learning.
 
 ## Instrutor: 
 ### André Almeida Santos
